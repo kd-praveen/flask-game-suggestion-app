@@ -39,4 +39,4 @@ To create a virtual environment for Python 3, use the venv module and give it a 
 
 # API Endpoints
 
-Please visit *http://localhost:5000/docs* for openapi documentation.
+Once app  is up, visit *http://localhost:5000/docs* for openapi documentation.
