@@ -14,7 +14,7 @@ Flask API endpoints to identify a combination of games that has the highest tota
 
 ## Step 2: Clone this repo
 
-## Step 2. Create an Environment
+## Step 3. Create an Environment
 
 1. Move into the cloned project directory:
 
