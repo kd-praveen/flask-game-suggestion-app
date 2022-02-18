@@ -30,7 +30,7 @@ To create a virtual environment for Python 3, use the venv module and give it a 
 
 ## Step 5: Run docker compose build command
 
-`docker build -t alocai-task .`
+`docker build -t <image-name> .`
 
 ## Step 6: Start and run your entire app using docker compose 
 
