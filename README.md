@@ -2,7 +2,6 @@
 Flask API endpoints to identify a combination of games that has the highest total value of all possible game combinations that fits given pen-drive space
 
 # Getting Started
-------------
 
 ## Step 1. Install virtualenv on Linux
 
@@ -17,7 +16,7 @@ Flask API endpoints to identify a combination of games that has the highest tota
 
 ## Step 2. Create an Environment
 
-1. Move into the  project directory:
+1. Move into the cloned project directory:
 
 `cd flask-game-suggestion-app`
 
@@ -29,7 +28,6 @@ To create a virtual environment for Python 3, use the venv module and give it a 
 
 `. <name of environment>/bin/activate`
 
-
 ## Step 5: Run docker compose build command
 
 `docker build -t alocai-task .`
@@ -40,6 +38,5 @@ To create a virtual environment for Python 3, use the venv module and give it a 
 
 
 # API Endpoints
-----------------
 
 Please visit *http://localhost:5000/docs* for openapi documentation.
